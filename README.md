@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priya !!</h1>
-<h3 align="center">Certified in Data Science</h3>
+<h3 align="center">Certified in Data Science and Analytics</h3>
 
 **About Me**
+I am a data science enthusiast with a strong foundation in Python, SQL, machine learning, and data analytics. Recently, I completed a Data Science and analytics certification from Imarticus Institute, where I gained hands-on experience with various projects based on machine learning and deep learning. I am passionate about continuously expanding my knowledge in AI and analytics.
 
+Currently, I am looking for opportunities in data science and analytics, where I can contribute my skills and grow professionally.
 
 
 - 🌱 I’m currently learning **Tableau and Advanced Machine Learning**
