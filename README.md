@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priya !!</h1>
 <h3 align="center">Certified in Data Science</h3>
 
+**About Me**
+
+
+
 - 🌱 I’m currently learning **Tableau and Advanced Machine Learning**
 
 - 💬 Ask me about **Excel, SQL, Python and Machine Learning**
