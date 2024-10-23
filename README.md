@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tableau and Advanced Machine Learning**
 
-- 💬 Ask me about **Excel, SQL, Python**
+- 💬 Ask me about **Excel, SQL, Python and Machine Learning**
 
 - 📫 How to reach me **puranikpriya28@gmail.com**
 
